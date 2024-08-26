@@ -1,0 +1,6 @@
+a=input("enter a number")
+b= input("enter a second number")
+print(a+b)
+print(int(a)+int(b))
+print(type(a))
+print(type(b))
